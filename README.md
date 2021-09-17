@@ -1,0 +1,2 @@
+In this Project I am buiding a basic html recipe website. The purpose of this project is to further my knowledge in html, git, and github.
+The website will consist of a main index page which will have links to a few recipes.
